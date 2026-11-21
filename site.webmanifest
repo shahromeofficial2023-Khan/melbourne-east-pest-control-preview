@@ -1,0 +1,12 @@
+{
+  "name": "Melbourne East Pest Control",
+  "short_name": "ME Pest Control",
+  "icons": [
+    { "src": "/melbourne-east-pest-control-preview/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/melbourne-east-pest-control-preview/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/melbourne-east-pest-control-preview/maskable-icon-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "theme_color": "#111111",
+  "background_color": "#FFFFFF",
+  "display": "standalone"
+}
